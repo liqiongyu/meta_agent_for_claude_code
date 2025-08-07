@@ -88,10 +88,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this 
 ## Support
 
 For questions, issues, or feature requests:
-- Open an [issue](https://github.com/yourusername/meta_agent_for_claude_code/issues)
-- Join the [discussions](https://github.com/yourusername/meta_agent_for_claude_code/discussions)
+- Open an [issue](https://github.com/liqiongyu/meta_agent_for_claude_code/issues)
+- Join the [discussions](https://github.com/liqiongyu/meta_agent_for_claude_code/discussions)
 
 ---
 
-[Unreleased]: https://github.com/yourusername/meta_agent_for_claude_code/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/yourusername/meta_agent_for_claude_code/releases/tag/v1.0.0
+[Unreleased]: https://github.com/liqiongyu/meta_agent_for_claude_code/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/liqiongyu/meta_agent_for_claude_code/releases/tag/v1.0.0

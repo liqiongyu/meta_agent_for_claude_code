@@ -125,7 +125,7 @@ Creates Chinese versions of all your agents while maintaining semantic equivalen
 
 1. **Clone this repository** (optional - agents work directly in Claude Code):
    ```bash
-   git clone https://github.com/yourusername/meta_agent_for_claude_code.git
+   git clone https://github.com/liqiongyu/meta_agent_for_claude_code.git
    ```
 
 2. **In Claude Code, invoke the meta-agent**:
@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Issues & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/meta_agent_for_claude_code/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/meta_agent_for_claude_code/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/meta_agent_for_claude_code/wiki)
+- **Bug Reports**: [GitHub Issues](https://github.com/liqiongyu/meta_agent_for_claude_code/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/liqiongyu/meta_agent_for_claude_code/discussions)
+- **Documentation**: [Wiki](https://github.com/liqiongyu/meta_agent_for_claude_code/wiki)
 
 ## 🌟 Star History
 
