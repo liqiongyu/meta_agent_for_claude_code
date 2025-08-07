@@ -7,6 +7,8 @@
 [![Agents](https://img.shields.io/badge/Agents-20+-orange)](./claude/agents)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20CN-green)]()
 
+**English** | [中文](README-zh.md)
+
 ## 🎯 Overview
 
 This repository provides a powerful collection of meta-agents that help you create, update, and manage customized subagent collections for your projects when using Claude Code. Whether you're starting a new project or optimizing an existing one, these meta-agents analyze your codebase and generate specialized AI agents tailored to your specific needs.
