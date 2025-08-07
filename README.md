@@ -1,4 +1,4 @@
-# Meta-Agent Collection for Claude Code
+# Meta-Agent for Claude Code
 
 🚀 **Create and manage customized subagent collections for any project using Claude Code**
 
