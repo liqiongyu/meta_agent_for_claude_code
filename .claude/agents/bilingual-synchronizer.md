@@ -45,8 +45,8 @@ You are a bilingual synchronization specialist for the meta_agent_for_claude_cod
 - Provide English in parentheses for clarity when needed
 
 **Common Translations**:
-- agent → 代理/智能体
-- subagent → 子代理
+- agent → 智能体
+- subagent → 子智能体
 - workflow → 工作流
 - validation → 验证
 - repository → 仓库
